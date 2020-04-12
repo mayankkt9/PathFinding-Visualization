@@ -27,7 +27,7 @@ Visualize BFS DFS A* | Create Dynamic Obstacles |
 🎈 A Star
 </div>
 <div align="center">
-<kbd border-radius=10px;>
+<kbd>
 <img width="500px" src="https://github.com/mayankkt9/PathFinding-Visualization/blob/master/gif/AStar.gif">
 </kbd>
 
@@ -39,9 +39,9 @@ Visualize BFS DFS A* | Create Dynamic Obstacles |
 🎈 DFS
 </div>
 <div align="center">
-  
+ <kbd>
 <img width="500px" src="https://github.com/mayankkt9/PathFinding-Visualization/blob/master/gif/DFS.gif">
-
+</kbd>
 </div>
 
 ### 🕶 Visualizing BFS 
@@ -51,7 +51,7 @@ Visualize BFS DFS A* | Create Dynamic Obstacles |
 🎈 BFS
 </div>
 <div align="center">
-  
+<kbd>
 <img width="500px" src="https://github.com/mayankkt9/PathFinding-Visualization/blob/master/gif/BFS.gif">
-
+</kbd>
 </div>
