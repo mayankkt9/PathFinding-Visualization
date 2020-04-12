@@ -20,10 +20,11 @@ Visualize BFS DFS A* | Create Dynamic Obstacles |
 * Another mouse click to create destination point
 * Click and drag mouse to create obstacles
 
-## 🕶 Demo
+### 🕶 Visualizing A*
 ----------
 <div align="center" >
 🎈 A Star
+
 </div>
 <div align="center">
   
@@ -31,6 +32,8 @@ Visualize BFS DFS A* | Create Dynamic Obstacles |
 
 </div>
 
+### 🕶 Visualizing DFS
+----------
 <div align="center" >
 🎈 DFS
 </div>
@@ -39,6 +42,9 @@ Visualize BFS DFS A* | Create Dynamic Obstacles |
 <img width="500px" src="https://github.com/mayankkt9/PathFinding-Visualization/blob/master/gif/DFS.gif">
 
 </div>
+
+### 🕶 Visualizing BFS 
+----------
 
 <div align="center" >
 🎈 BFS
