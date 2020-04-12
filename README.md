@@ -22,7 +22,9 @@ Visualize BFS DFS A* | Create Dynamic Obstacles |
 
 ## 🕶 Demo
 ----------
-
+<div align="center">
+🎈 A Star
+</div>
 <div align="center">
   
 <img width="500px" src="https://github.com/mayankkt9/PathFinding-Visualization/blob/master/gif/AStar.gif">
