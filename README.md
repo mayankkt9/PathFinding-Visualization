@@ -25,6 +25,6 @@ Visualize BFS DFS A* | Create Dynamic Obstacles |
 
 <div align="center">
   
-<img width="800px" src="https://github.com/mayankkt9/PathFinding-Visualization/blob/master/gif/AStar.gif">
+<img width="500px" src="https://github.com/mayankkt9/PathFinding-Visualization/blob/master/gif/AStar.gif">
 
 </div>
