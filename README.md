@@ -7,6 +7,7 @@ Visualize BFS DFS A* | Create Dynamic Obstacles |
 
 **_Pathfinding Visualizer_** is a __dynamically__ visualization app used to visulize the process of finding the shortest path from some ```source```to ```destination``` using bunch of diffrent shortest-path algorithms like (A*, DFS, BFS) with a pretty cool functionalites like ```Controlling the position of the source and destination``` , ```randomize obstacles in the grid``` and ```clearing the whole grid to add blocks as you like```
 
+
 ## ⚙ Algorithms represented:
 ------------------
 * A*
